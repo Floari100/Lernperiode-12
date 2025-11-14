@@ -9,26 +9,25 @@ Anfang November möchte ich die laufenden Module abschließen und offene Aufgabe
 
 **31.10.25**
 
--Offene Modulaufgaben abschließen. Kleine Restaufgaben in 1–2 Modulen fertig bearbeiten und Ergebnisse überprüfen.
--Blender – neues Modell anfangen. Ein einfaches Objekt wirklich modellieren (z. B. stylisierte Tasse, Low-Poly Baum, kleines Asset) → erste Form + Details.
--Portfolio – Website überarbeiten. Ein bestehendes Projekt aktualisieren: Titel, Beschreibung, Screenshots oder Struktur verbessern.
+- Offene Modulaufgaben abschließen. Kleine Restaufgaben in 1–2 Modulen fertig bearbeiten und Ergebnisse überprüfen.
+- Blender – neues Modell anfangen. Ein einfaches Objekt wirklich modellieren (z. B. stylisierte Tasse, Low-Poly Baum, kleines Asset) → erste Form + Details.
+- Portfolio – Website überarbeiten. Ein bestehendes Projekt aktualisieren: Titel, Beschreibung, Screenshots oder Struktur verbessern.
 
 **Kurzer Rückblick**
 In der vorletzten Woche konnte ich offene Aufgaben erledigen und so mehr Übersicht schaffen. Das Blender-Modell hat gut gestartet und mir kreative Abwechslung gegeben. Außerdem wirkt mein Portfolio durch die kleine Überarbeitung deutlich klarer. Produktiv, aber angenehm machbar.
 
 **07.11.25**
-
--An Website weiter arbeiten
--Frontend – bestehendes Layout modernisieren- Eine einfache Seite oder Komponenten überarbeiten (Spacing, Farben, Buttons, Mobile-Ansicht verbessern).
--Testfälle schreiben (MSTest). Für 2–3 Methoden kurze Unit Tests erstellen, um das Testverständnis zu stärken.
+- An Website weiter arbeiten
+- Frontend – bestehendes Layout modernisieren- Eine einfache Seite oder Komponenten überarbeiten (Spacing, Farben, Buttons, Mobile-Ansicht verbessern).
+- Testfälle schreiben (MSTest). Für 2–3 Methoden kurze Unit Tests erstellen, um das Testverständnis zu stärken.
 
 **Kurzer Rückblick**
 Ich habe letzte Woche spürbar Fortschritte gemacht: Die kleine überarbeitung an der Website hat mir geholfen, sauberer zu programmieren. Das modernisierte Frontend fühlte sich professioneller an, und die MSTest-Übungen haben mein Testverständnis gefestigt. Insgesamt technisch solide und klar strukturiert.
 
 **14.11.25**
--AI-Grundkurs beginnen. Erste Lektionen eines Online-Kurses starten (z. B. Grundlagen von KI, Large Language Models, Automatisierungsmöglichkeiten).
--IT-Skills stärken. Kleine praktische Aufgaben lösen (CLI-Übungen, Netzwerk-Basics, einfache Automatisierungsflows mit n8n anschauen).
--Kurznotizen erstellen. Alles Gelernte dieser Woche in 5–10 Stichpunkten dokumentieren (AI-Konzepte, interessante Tools, neue Ideen).
+- AI-Grundkurs beginnen. Erste Lektionen eines Online-Kurses starten (z. B. Grundlagen von KI, Large Language Models, Automatisierungsmöglichkeiten).
+- IT-Skills stärken. Kleine praktische Aufgaben lösen (CLI-Übungen, Netzwerk-Basics, einfache Automatisierungsflows mit n8n anschauen).
+- Kurznotizen erstellen. Alles Gelernte dieser Woche in 5–10 Stichpunkten dokumentieren (AI-Konzepte, interessante Tools, neue Ideen).
 
 **Rückblick**
 Diese Woche habe ich erstmals systematisch damit begonnen, mich in Themen rund um künstliche Intelligenz und moderne IT-Automatisierung einzuarbeiten. Die ersten Kursinhalte waren verständlich und haben mir einen guten Überblick über Grundbegriffe, Modelle und Einsatzmöglichkeiten gegeben. Zusätzlich konnte ich kleine IT-Übungen machen, um meine allgemeinen technischen Fähigkeiten zu vertiefen. Die Notizen haben mir geholfen, das Wissen zu ordnen. Insgesamt war der Einstieg produktiv und motivierend.
